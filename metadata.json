@@ -1,0 +1,6 @@
+{
+  "name": "UMAIRA Tube",
+  "description": "Ultra High Video & AI Recommendation Platform featuring Battle Mode, Aura Score, AI Thumbnail/SEO Tools, Immersive Reels, and Smart Virality Predictor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
